@@ -12,7 +12,7 @@ namespace ednevnik
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Glavna());
+            Application.Run(new Glavna2());
         }
     }
 }
